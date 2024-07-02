@@ -1,0 +1,12 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px 10px;
+  padding: 7px;
+  background-color: rgba(255, 255, 255, 0.863);
+}
+.foto {
+ width: auto;
+ margin: auto;
+ height: 370px;
+ object-fit: contain;
+}
